@@ -7,5 +7,6 @@ Informational reference for prospective home buyers. Accessible online, it allow
 **Database:** Firebase
 
 ## Run Locally
-To access the website, click on the following URL:\
+Currently under production...\
+To preview the production website, click on the following URL:\
 https://zillow-researcher.netlify.app/
